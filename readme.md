@@ -8,7 +8,7 @@ This is a **Verilog** code for basic UART communication protocol with variable b
 * It is universal because the parameters like transfer speed, data speed, etc. are configurable.
 > UART Data Frame
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/uart.png?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/uart.png?raw=true)
 
 ## Design
 * baud_rate is a 32-bit input port to set as per requirement.
@@ -23,33 +23,33 @@ This is a **Verilog** code for basic UART communication protocol with variable b
 
 * 9600 baud-rate
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/9600_baud.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/9600_baud.PNG?raw=true)
 
 * 19200 baud-rate
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/19200_baud.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/19200_baud.PNG?raw=true)
 
 * 115200 baud-rate
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/115200_baud.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/115200_baud.PNG?raw=true)
 
 >**Schematic**
 
 * top
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/top_schematic.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/top_schematic.PNG?raw=true)
 
 * Tx
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/tx_schematic.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/tx_schematic.PNG?raw=true)
 
 * Rx
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/rx_schematic.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/rx_schematic.PNG?raw=true)
 
 >Post-Synthesis
 
-![](https://github.com/TheSuryaTeja/UART/blob/master/Images/post-synthesis.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/UART-RTL/blob/master/Images/post-synthesis.PNG?raw=true)
 
 
 ## Author
